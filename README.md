@@ -5,17 +5,15 @@
 Element (formerly known as Vector and Riot) is a Matrix web client built using the [Matrix
 React SDK](https://github.com/matrix-org/matrix-react-sdk).
 
-# Supported Environments
+## Where it will work
 
-Element has several tiers of support for different environments:
-
--   Supported: Firefox 42+
+@jeanpaullucien makes patches for Firefox 42+
 
 For accessing Element on an Android or iOS device, we currently recommend the
 native apps [element-android](https://github.com/vector-im/element-android)
 and [element-ios](https://github.com/vector-im/element-ios).
 
-# Getting Started
+# Hot to use
 
 To host your own copy of Element, the quickest bet is to use a pre-built
 released version of Element:
