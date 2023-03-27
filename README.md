@@ -7,11 +7,7 @@ React SDK](https://github.com/matrix-org/matrix-react-sdk).
 
 ## Where it will work
 
-@jeanpaullucien makes patches for Firefox 42+
-
-For accessing Element on an Android or iOS device, we currently recommend the
-native apps [element-android](https://github.com/vector-im/element-android)
-and [element-ios](https://github.com/vector-im/element-ios).
+JeanPaulLucien makes patches for Firefox 42+
 
 # Hot to use
 
