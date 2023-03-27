@@ -16,20 +16,7 @@ React SDK](https://github.com/matrix-org/matrix-react-sdk).
 
 Element has several tiers of support for different environments:
 
--   Supported
-    -   Definition: Issues **actively triaged**, regressions **block** the release
-    -   Last 2 major versions of Chrome, Firefox, and Edge on desktop OSes
-    -   Last 2 versions of Safari
-    -   Latest release of official Element Desktop app on desktop OSes
-    -   Desktop OSes means macOS, Windows, and Linux versions for desktop devices
-        that are actively supported by the OS vendor and receive security updates
--   Experimental
-    -   Definition: Issues **accepted**, regressions **do not block** the release
-    -   Element as an installed PWA via current stable version of Chrome
-    -   Mobile web for current stable version of Chrome, Firefox, and Safari on Android, iOS, and iPadOS
--   Not supported
-    -   Definition: Issues only affecting unsupported environments are **closed**
-    -   Everything else
+-   Supported: Firefox 42+
 
 For accessing Element on an Android or iOS device, we currently recommend the
 native apps [element-android](https://github.com/vector-im/element-android)
