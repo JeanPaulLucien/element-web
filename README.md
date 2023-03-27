@@ -20,6 +20,7 @@ and [element-ios](https://github.com/vector-im/element-ios).
 To host your own copy of Element, the quickest bet is to use a pre-built
 released version of Element:
 
+1. Build from source (jpl-edition)
 1. Download the latest version from <https://github.com/vector-im/element-web/releases>
 1. Untar the tarball on your web server
 1. Move (or symlink) the `element-x.x.x` directory to an appropriate name
